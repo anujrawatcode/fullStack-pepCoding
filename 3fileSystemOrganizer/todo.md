@@ -1,8 +1,8 @@
 [*] Help
 [*] Organize
 [*] Tree 
-[] global
-[] Cover some good practise
+[*] global
+
 
 <!-- 
 process.agvs

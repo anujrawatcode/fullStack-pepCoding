@@ -1,3 +1,6 @@
+#!/usr/bin/env node
+
+// shebang syntex
 // // // 0 have node, 1 have file name we type in cmd
 let input = process.argv.slice(2);
 let fs = require("fs");
@@ -36,7 +39,9 @@ switch (command) {
 
 function treeFn(dirPath) {
     if (dirPath == undefined) {
-        console.log("Enter the directory name");
+        // console.log("Enter the directory name");
+        process.cwd()
+        treeHelper(process.cwd(), "");
         return;
     } else {
         let doesExits = fs.existsSync(dirPath);
@@ -72,7 +77,9 @@ let destPath;
 function organizeFn(dirPath) {
 
     if (dirPath == undefined) {
-        console.log("Enter the directory name");
+        // console.log("Enter the directory name");
+        destPath = process.cwd();
+        organizeHelp(dirPath, destPath);
         return;
     } else {
         let doesExits = fs.existsSync(dirPath);

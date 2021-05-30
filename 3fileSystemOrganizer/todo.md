@@ -1,10 +1,12 @@
 [*] Help
 [*] Organize
-[] Tree 
+[*] Tree 
 [] global
 [] Cover some good practise
 
 <!-- 
-process.ags
+process.agvs
+prcoess.cwd
 
+shebang syntex
  -->

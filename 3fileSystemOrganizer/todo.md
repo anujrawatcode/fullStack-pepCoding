@@ -1,5 +1,5 @@
 [*] Help
-[] Organize
+[*] Organize
 [] Tree 
 [] global
 [] Cover some good practise

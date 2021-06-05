@@ -1,0 +1,33 @@
+<html>
+
+<body>
+
+<input type="text" name="input">
+
+<input type="button" value="click" onClick="GetFormattedDate()">
+
+<script>
+
+function GetFormattedDate() 
+
+{
+
+    var todayTime = new Date(1000000000);
+
+    console.log(todayTime.toDateString());
+
+    month = todayTime .getMonth() + 1;
+
+    var day = todayTime .getDate();
+
+    var year = todayTime .getFullYear();
+
+  console.log( month + "/" + day + "/" + year);
+
+}
+
+</script>
+
+</body>
+
+</html>

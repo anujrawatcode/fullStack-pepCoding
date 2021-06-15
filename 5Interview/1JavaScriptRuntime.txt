@@ -1,0 +1,26 @@
+Javascript runtime enviroment
+Js runs in it
+You install enviroment ans get JS along with it
+Eg: Browser, Node.Js, Electron
+
+Javascript runtime enviroment have
+1. JS ENGINE
+2. API / FEATURES
+3. QUEUE and THREADS
+
+JS only provide logic in enviroment/ APIs / FEATURES are given by enviroment
+Eg: Console.log() is not defined by Js but by Browser
+
+JS is made with reference of 3 language
+1. JAVA : Syntax
+2. SELF : OOPs
+3. SCHEMA :  Functional Programming
+
+Javascript is not actual name
+LiveScript -> Javascript -> EcmaScript (ECMA international write standards)
+
+EcmaScript for ENGINE is written by vendors by browser according to standards of ECMA
+
+What is REACt.Js Angular.js ?
+UI change is costly operation to optimise it developer code in framework
+and company optimise it according to browser.

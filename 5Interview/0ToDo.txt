@@ -1,0 +1,6 @@
+.What actually is JS
+Types of funtion
+How JS code is executed 
+Hositing and fake functions
+Lexical scope and scope chain
+Var let const

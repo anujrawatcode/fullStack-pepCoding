@@ -1,3 +1,15 @@
+// 1. Parameter / return type is not defined in function
+// 2. Functional Expression
+// 3. Anonymous Function
+// 4. IIFI
+// 5. Arrow Function
+// 6. Function passed in function
+// 7. Function returned in function
+
+
+
+
+
 // Types of function
 // Function are First Class Citizens
 //define

@@ -1,0 +1,13 @@
+{
+    "f_name": "Anuj",
+    "l_name": "Rawat",
+    "Eduction": {
+        "Course": "B.Tech",
+        "Sem": "7th",
+        "College": "GEU"
+    },
+    "friends": [
+        "Adarsh",
+        "Dewa"
+    ]
+}
